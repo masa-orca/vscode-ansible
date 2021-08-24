@@ -5,7 +5,7 @@
   ],
   "badges": [
     {
-      "description": "Ansible Language Extension",
+      "description": "[DEPRECATED] Ansible Language Extension",
       "href": "https://marketplace.visualstudio.com/items?itemName=zbr.vscode-ansible",
       "url": "https://vsmarketplacebadge.apphb.com/version/zbr.vscode-ansible.svg"
     },
@@ -217,7 +217,7 @@
     "untildify": "^4.0.0",
     "vscode-nls": "^5.0.0"
   },
-  "description": "Ansible YAML schema verification, auto-complete, highlight problems reported by ansible-lint or yamllint and vault encryption and decryption.",
+  "description": "[DEPRECATED] Ansible YAML schema verification, auto-complete, highlight problems reported by ansible-lint or yamllint and vault encryption and decryption.",
   "devDependencies": {
     "@types/glob": "^7.1.3",
     "@types/mocha": "^8.2.2",
@@ -234,7 +234,7 @@
     "vsce": "^1.88.0",
     "vscode-test": "^1.5.2"
   },
-  "displayName": "Ansible Language",
+  "displayName": "[DEPRECATED] Ansible Language",
   "engineStrict": true,
   "engines": {
     "node": ">=16.0",
@@ -281,5 +281,5 @@
     "vscode:prepublish": "npm run compile",
     "watch": "tsc -watch -p ./"
   },
-  "version": "0.4.5"
+  "version": "0.4.6"
 }

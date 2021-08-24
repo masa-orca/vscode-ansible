@@ -4,6 +4,11 @@
 
 * ...
 
+## 0.4.6
+
+* Declare extension as deprecated and recommend users to install
+  [redhat.ansible](https://marketplace.visualstudio.com/items?itemName=redhat.ansible) extension instead, which is the new official name.
+
 ## 0.4.5
 
 * Clean old violations when running the linter again
